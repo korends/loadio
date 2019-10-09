@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: #10213c;
+    color: #fff;
+}
+
+body {
+    width: 600px;
+    margin: 0px auto;
+}
+
+.caption {
+    text-align: center;
+    font-size: 15px;
+}
+
